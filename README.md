@@ -1,1 +1,0 @@
-# primeiro-app-2024-tutorial
