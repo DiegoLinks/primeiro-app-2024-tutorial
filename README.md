@@ -1,6 +1,6 @@
 # Seu Primeiro App Android (Android Studio) - Versão 2024
 
-Aqui temos o código fonte de um tutorial gravado em vídeo disponibilizado gratuitamente no youtube: (Link será disponibilziado em breve)
+Aqui temos o código fonte de um tutorial gravado em vídeo disponibilizado gratuitamente no youtube: https://www.youtube.com/watch?v=LtVE69kJobs
 
 Conteúdo em português voltado pro público brasileiro e lusófono em geral.
 
